@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# simple_requisitions
+ A simple application for requisition management
+>>>>>>> 746682266e9e914f0019bf83f183c787a7ae6ea8
